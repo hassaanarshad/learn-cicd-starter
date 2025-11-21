@@ -6,7 +6,7 @@ on:
 
 jobs:
   Deploy:
-    name: Deploy app
+    name: Deploy
     runs-on: ubuntu-latest
 
     steps:
